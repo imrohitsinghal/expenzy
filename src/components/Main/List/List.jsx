@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import { ExpenseTrackerContext } from "../../../context/context";
-import useStyles from "./syles";
+import useStyles from "./styles";
 import {
   List as MUIList,
   IconButton,
